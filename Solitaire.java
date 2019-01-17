@@ -1,8 +1,3 @@
-/*
- * -scoring types
- * -stats (different modes, wins without undo)
- * 
- */
 import java.util.*;
 import javax.swing.*;
 import java.awt.Dimension;
