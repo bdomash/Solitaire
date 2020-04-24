@@ -1,5 +1,5 @@
 # Solitaire
-This resitory includes all of the files for the Solitaire game, which I coded for my final project of CS Data Structures as a senior in High School.
+This repo includes all of the files for the Solitaire game, which I coded for my final project of CS Data Structures as a senior in High School.
 
 The game includes a GUI (graphical user interface), which is primarily implemented in the Frame class.
 
